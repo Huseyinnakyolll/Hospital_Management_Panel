@@ -1,4 +1,4 @@
-# 🏥 Hospital Management Panel / Hastane Yönetim Paneli
+#  Hospital Management Panel / Hastane Yönetim Paneli
 
 A desktop-based hospital management system built with **C# Windows Forms** and **SQL Server**, designed to manage patient appointments, doctor records, and secretary operations in a simple interface.
 
@@ -6,18 +6,18 @@ C# Windows Forms ve SQL Server kullanılarak geliştirilmiş masaüstü tabanlı
 
 ---
 
-## 📋 Features / Özellikler
+##  Features / Özellikler
 
-### 👤 Patient Module / Hasta Modülü
+###  Patient Module / Hasta Modülü
 - Appointment registration / Randevu alma
 - View appointment details / Randevu detaylarını görüntüleme
 
-### 🩺 Doctor Module / Doktor Modülü
+###  Doctor Module / Doktor Modülü
 - Add new doctors / Yeni doktor kaydı
 - View doctor list / Doktorları listeleme
 - View all appointments / Randevuları görüntüleme
 
-### 👩‍💼 Secretary Module / Sekreter Modülü
+###  Secretary Module / Sekreter Modülü
 - Secretary login / Sekreter girişi
 - Add & delete secretary accounts / Sekreter kaydı ve silme
 - View all doctors, patients, and appointments / Tüm doktorları, hastaları ve randevuları görüntüleme
@@ -25,7 +25,7 @@ C# Windows Forms ve SQL Server kullanılarak geliştirilmiş masaüstü tabanlı
 
 ---
 
-## 🛠️ Technologies Used / Kullanılan Teknolojiler
+## 🛠 Technologies Used / Kullanılan Teknolojiler
 
 - **Programming Language / Programlama Dili:** C#
 - **Framework:** .NET Framework (Windows Forms)
@@ -34,24 +34,24 @@ C# Windows Forms ve SQL Server kullanılarak geliştirilmiş masaüstü tabanlı
 
 ---
 
-## 🖼️ Screenshots / Ekran Görüntüleri
+##  Screenshots / Ekran Görüntüleri
 
-### 🏠 Homepage
+##  Homepage
 ![Homepage](screenshots/homepage.png)
 
-### 🧑‍⚕️ Doctor Operations
+##  Doctor Operations
 ![DoctorPage](screenshots/doctorpage.png)
 
-### 📅 Appointment Management
+##  Appointment Management
 ![AppointmentPage](screenshots/appointmentpage.png)
 
-### 👩‍💼 Secretary Panel
+### Secretary Panel
 ![SecretaryPage](screenshots/secretarypage.png)
 
 
 ---
 
-## 🧑‍💻 Developer / Geliştirici
+##  Developer / Geliştirici
 
 **Hüseyin Akyol**  
 [GitHub Profilim](https://github.com/Huseyinnakyolll)
