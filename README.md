@@ -25,7 +25,7 @@ C# Windows Forms ve SQL Server kullanılarak geliştirilmiş masaüstü tabanlı
 
 ---
 
-## 🛠 Technologies Used / Kullanılan Teknolojiler
+## Technologies Used / Kullanılan Teknolojiler
 
 - **Programming Language / Programlama Dili:** C#
 - **Framework:** .NET Framework (Windows Forms)
